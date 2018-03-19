@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/wrayamanda2010/first-module/issues"
   },
-  "homepage": "https://github.com/wrayamanda2010/first-module#readme"
+  "homepage": "https://github.com/wrayamanda2010/first-module#readme",
+  "dependencies": {
+    "chalk": "^2.3.2"
+  }
 }
